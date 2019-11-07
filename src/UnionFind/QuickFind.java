@@ -47,6 +47,7 @@ public class QuickFind {
 
             if (alg.connected(p, q)) {
                 System.out.println("Already connected!");
+                input = console.nextLine();
                 continue;
             }
 
@@ -58,7 +59,3 @@ public class QuickFind {
         }
     }
 }
-
-
-
-

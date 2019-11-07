@@ -61,6 +61,7 @@ public class WeightedQuickUnionWithPathCompression {
 
             if (alg.connected(p, q)) {
                 System.out.println("Already connected!");
+                input = console.nextLine();
                 continue;
             }
 

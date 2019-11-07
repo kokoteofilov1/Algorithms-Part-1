@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2bbd9fe-cece-4b6d-af7f-7c1395e9df4c" name="Default Changelist" comment="" />
+    <list default="true" id="b2bbd9fe-cece-4b6d-af7f-7c1395e9df4c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UnionFind/QuickFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UnionFind/QuickFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UnionFind/QuickUnion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UnionFind/QuickUnion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UnionFind/WeightedQuickUnionWithPathCompression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UnionFind/WeightedQuickUnionWithPathCompression.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +18,24 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/UnionFind/QuickUnion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="773">
+              <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#697#698#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -29,13 +51,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/UnionFind/QuickFindUF.java" />
+        <option value="$PROJECT_DIR$/src/UnionFind/WeightedQuickUnionWithPathCompression.java" />
         <option value="$PROJECT_DIR$/src/UnionFind/QuickFind.java" />
         <option value="$PROJECT_DIR$/src/UnionFind/QuickUnion.java" />
-        <option value="$PROJECT_DIR$/src/UnionFind/WeightedQuickUnionWithPathCompression.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="106" />
     <option name="y" value="23" />
     <option name="width" value="938" />
@@ -90,7 +112,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuickUnion">
+  <component name="RunManager" selected="Application.WeightedQuickUnionWithPathCompression">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -172,8 +194,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuickUnion" />
         <item itemvalue="Application.WeightedQuickUnionWithPathCompression" />
+        <item itemvalue="Application.QuickUnion" />
         <item itemvalue="Application.QuickFind" />
       </list>
     </recent_temporary>
@@ -193,8 +215,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28144988" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28784648" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -226,23 +249,23 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/UnionFind/QuickFindUF.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/Algorithms/UnionFind/QuickFind.class" />
     <entry file="file://$PROJECT_DIR$/src/UnionFind/WeightedQuickUnionWithPathCompression.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="743">
-          <caret line="71" column="9" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
+        <state relative-caret-position="677">
+          <caret line="67" column="28" lean-forward="true" selection-start-line="67" selection-start-column="28" selection-end-line="67" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
             <element signature="e#964#965#0" expanded="true" />
-            <element signature="e#959#960#0" expanded="true" />
-            <element signature="e#995#996#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UnionFind/QuickFind.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="816">
+          <caret line="48" column="57" selection-start-line="48" selection-start-column="57" selection-end-line="48" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#548#549#0" expanded="true" />
@@ -253,11 +276,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/Algorithms/UnionFind/QuickFind.class" />
     <entry file="file://$PROJECT_DIR$/src/UnionFind/QuickUnion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
+        <state relative-caret-position="773">
+          <caret line="63" column="1" lean-forward="true" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#564#565#0" expanded="true" />
